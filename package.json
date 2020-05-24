@@ -1,0 +1,22 @@
+{
+	"name": "vanilla-js-state-management",
+	"version": "1.0.0",
+	"description": "A state managment system in vanilla JavaScript, based on a [CSS-Tricks tutorial](https://css-tricks.com/build-a-state-management-system-with-vanilla-javascript).",
+	"homepage": "https://github.com/MartinRosenberg/vanilla-js-state-management#readme",
+	"bugs": {
+		"url": "https://github.com/MartinRosenberg/vanilla-js-state-management/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MartinRosenberg/vanilla-js-state-management.git"
+	},
+	"license": "MIT",
+	"contributors": [
+		"Andy Bell",
+		"Martin Rosenberg"
+	],
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	}
+}
